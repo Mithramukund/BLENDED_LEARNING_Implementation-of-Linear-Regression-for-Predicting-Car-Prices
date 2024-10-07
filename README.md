@@ -31,8 +31,8 @@ To write a program to predict car prices using a linear regression model and tes
 ```
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: Aaliya Fathima M
-RegisterNumber: 212223230001
+Developed by: MITHRA MUKUNDAA
+RegisterNumber: 212222100026
  
 */
 # Import necessary libraries
